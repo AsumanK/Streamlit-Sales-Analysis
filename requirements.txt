@@ -5,4 +5,5 @@ streamlit==0.81.1
 openpyxl==3.0.7
 base58==2.1.0
 xlrd==2.0.1
+matplotlib==3.4.2
 
